@@ -114,7 +114,6 @@ function doVibrate(vibrate) {
 
 // Context
 var canvas = document.getElementById('canvas'),
-console.log(ctx);
 var ctx = canvas.getContext('2d');
 
 var skillSize = 8,
