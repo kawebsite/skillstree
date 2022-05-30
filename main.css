@@ -1,0 +1,7 @@
+canvas {
+    background: #eee;
+    position: flex;
+}
+:checked ~ canvas {
+    width: 100%;
+}
