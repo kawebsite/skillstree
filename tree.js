@@ -114,8 +114,8 @@ function doVibrate(vibrate) {
 
 // Context
 var canvas = document.getElementById('canvas'),
-    ctx = canvas.getContext('2d');
 console.log(ctx);
+var ctx = canvas.getContext('2d');
 
 var skillSize = 8,
     zoomX = 12,
